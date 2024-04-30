@@ -1,0 +1,3 @@
+This is the forth file for devops assignment
+This is consider as forth raw code file
+This will used for assignment purpose as forth code file
